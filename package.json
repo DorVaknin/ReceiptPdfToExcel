@@ -1,0 +1,17 @@
+{
+  "name": "receiptprocessing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ProcessReceipt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"dependencies": {
+    "aws-sdk": "^2.823.0",
+    "xlsx": "^0.15.2",
+    "pdf-parse": "^1.1.1"
+  }
+,
+  "author": "",
+  "license": "ISC"
+}
